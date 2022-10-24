@@ -22,9 +22,7 @@ Fresh graduate learning to become a full-stack web developer in the future, star
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/fung673" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 

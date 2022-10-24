@@ -7,7 +7,7 @@ web developer
 Fresh graduate learning to become a full-stack web developer in the future, starting with HTML, CSS, and javascript.
 
 * 🌍  I'm based in Hong Kong
-* 🖥️  See my portfolio at [Github](http://fung673.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Github](https://fung673.github.io/myPortfolio/)
 * ✉️  You can contact me at [alexfung1234@gmail.com](mailto:alexfung1234@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Project

@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 web developer
 -------------
 
-Fresh graduate learning web development in the future, started with HTML, CSS, and javascript.
+Fresh graduate learning web development, started with HTML, CSS, and javascript.
 
-* 🌍  I'm based in Hong Kong
+* 🌍  based in Hong Kong
 * 🖥️  See my portfolio at [Github](https://fung673.github.io/myPortfolio/)
-* ✉️  You can contact me at [alexfung1234@gmail.com](mailto:alexfung1234@gmail.com)
+* ✉️  You can contact me at here(mailto:alexfung1234@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Project
 

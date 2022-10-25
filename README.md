@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 web developer
 -------------
 
-Fresh graduate learning to become a full-stack web developer in the future, starting with HTML, CSS, and javascript.
+Fresh graduate learning web development in the future, started with HTML, CSS, and javascript.
 
 * 🌍  I'm based in Hong Kong
 * 🖥️  See my portfolio at [Github](https://fung673.github.io/myPortfolio/)
